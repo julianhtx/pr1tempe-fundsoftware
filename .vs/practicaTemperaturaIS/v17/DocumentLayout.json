@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicatemperaturais\\frmmenuuser3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\frmmenuuser3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B580032-AFF3-4659-8BB4-E1E8B0401719}|Manejador\\Manejador.csproj|c:\\users\\juli\u00E1n\\source\\repos\\practicatemperaturais\\manejador\\manejadortemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B580032-AFF3-4659-8BB4-E1E8B0401719}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadortemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79479AE3-FAA0-4C4E-B734-7FEC1FC3FDDD}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\juli\u00E1n\\source\\repos\\practicatemperaturais\\accesodatos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79479AE3-FAA0-4C4E-B734-7FEC1FC3FDDD}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|c:\\users\\juli\u00E1n\\source\\repos\\practicatemperaturais\\practicatemperaturais\\frmadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\frmadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|c:\\users\\juli\u00E1n\\source\\repos\\practicatemperaturais\\practicatemperaturais\\frmadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\frmadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicatemperaturais\\frmedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\frmedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicatemperaturais\\frmmenuuser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\frmmenuuser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicatemperaturais\\frmmenuuser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\frmmenuuser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicatemperaturais\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D83E28BA-ADAE-4F53-9883-92B311F309C9}|practicaTemperaturaIS\\practicaTemperaturaIS.csproj|solutionrelative:practicatemperaturais\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmAdminUser.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\frmAdminUser.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmAdminUser.cs",
+              "RelativeToolTip": "practicaTemperaturaIS\\frmAdminUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:21:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManejadorTemp.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\Manejador\\ManejadorTemp.cs",
+              "RelativeDocumentMoniker": "Manejador\\ManejadorTemp.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\Manejador\\ManejadorTemp.cs",
+              "RelativeToolTip": "Manejador\\ManejadorTemp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:37:47.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\AccesoDatos\\Funciones.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Funciones.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\AccesoDatos\\Funciones.cs",
+              "RelativeToolTip": "AccesoDatos\\Funciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:37:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenuUser3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmMenuUser3.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\frmMenuUser3.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmMenuUser3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practicaTemperaturaIS\\frmMenuUser3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:30:22.723Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMenuUser2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmMenuUser2.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\frmMenuUser2.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmMenuUser2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practicaTemperaturaIS\\frmMenuUser2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:15:36.405Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEditUser.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmEditUser.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\frmEditUser.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmEditUser.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practicaTemperaturaIS\\frmEditUser.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:07:07.161Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdminUser.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmAdminUser.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\frmAdminUser.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmAdminUser.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practicaTemperaturaIS\\frmAdminUser.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:54:15.156Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMenuUser1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmMenuUser1.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\frmMenuUser1.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\frmMenuUser1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practicaTemperaturaIS\\frmMenuUser1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:36:00.197Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\Form1.cs",
+              "RelativeDocumentMoniker": "practicaTemperaturaIS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\practicaTemperaturaIS\\practicaTemperaturaIS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practicaTemperaturaIS\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:21:09.581Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
