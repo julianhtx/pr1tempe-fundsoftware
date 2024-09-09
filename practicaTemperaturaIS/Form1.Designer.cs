@@ -33,7 +33,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.txtUser = new System.Windows.Forms.TextBox();
             this.txtClave = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -78,7 +78,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(196)))), ((int)(((byte)(246)))));
-            this.panel1.Controls.Add(this.comboBox1);
+            this.panel1.Controls.Add(this.txtUser);
             this.panel1.Controls.Add(this.pictureBox2);
             this.panel1.Controls.Add(this.pictureBox3);
             this.panel1.Controls.Add(this.txtClave);
@@ -88,13 +88,15 @@
             this.panel1.Size = new System.Drawing.Size(849, 284);
             this.panel1.TabIndex = 16;
             // 
-            // comboBox1
+            // txtUser
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(244, 82);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(497, 24);
-            this.comboBox1.TabIndex = 14;
+            this.txtUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUser.Location = new System.Drawing.Point(243, 81);
+            this.txtUser.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUser.Multiline = true;
+            this.txtUser.Name = "txtUser";
+            this.txtUser.Size = new System.Drawing.Size(499, 34);
+            this.txtUser.TabIndex = 0;
             // 
             // txtClave
             // 
@@ -105,7 +107,7 @@
             this.txtClave.Name = "txtClave";
             this.txtClave.PasswordChar = '*';
             this.txtClave.Size = new System.Drawing.Size(499, 34);
-            this.txtClave.TabIndex = 11;
+            this.txtClave.TabIndex = 1;
             // 
             // label1
             // 
@@ -128,9 +130,10 @@
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(329, 68);
-            this.button1.TabIndex = 17;
+            this.button1.TabIndex = 2;
             this.button1.Text = "INGRESAR";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -158,10 +161,10 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.TextBox txtClave;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtUser;
     }
 }
 

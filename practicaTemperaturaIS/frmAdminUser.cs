@@ -19,17 +19,26 @@ namespace practicaTemperaturaIS
 
         private void button1_Click(object sender, EventArgs e)
         {
-            frmEditUser fue = new frmEditUser();
+            frmBuscarUsuarios fbu = new frmBuscarUsuarios();
+            fbu.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            frmEditUser fue = new frmEditUser();
+            frmBuscarUsuarios fbu = new frmBuscarUsuarios();
+            fbu.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            frmEditUser frm = new frmEditUser();
+            frmBuscarUsuarios fbu = new frmBuscarUsuarios();
+            fbu.Show();
+        }
+
+        private void btnBuscaU_Click(object sender, EventArgs e)
+        {
+            frmBuscarUsuarios frmBuscarUsuarios = new frmBuscarUsuarios();
+            frmBuscarUsuarios.Show();
         }
     }
 }

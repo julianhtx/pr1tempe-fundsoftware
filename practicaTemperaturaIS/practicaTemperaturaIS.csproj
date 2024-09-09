@@ -58,6 +58,12 @@
     <Compile Include="frmAdminUser.Designer.cs">
       <DependentUpon>frmAdminUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBuscarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarUsuarios.Designer.cs">
+      <DependentUpon>frmBuscarUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmEditUser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,12 +82,6 @@
     <Compile Include="frmMenuUser2.Designer.cs">
       <DependentUpon>frmMenuUser2.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmMenuUser3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMenuUser3.Designer.cs">
-      <DependentUpon>frmMenuUser3.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -89,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmAdminUser.resx">
       <DependentUpon>frmAdminUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarUsuarios.resx">
+      <DependentUpon>frmBuscarUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmEditUser.resx">
       <DependentUpon>frmEditUser.cs</DependentUpon>
@@ -98,9 +101,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenuUser2.resx">
       <DependentUpon>frmMenuUser2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmMenuUser3.resx">
-      <DependentUpon>frmMenuUser3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -133,6 +133,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\SI4753033_bright_brightness_day_sun_sunny_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{79479ae3-faa0-4c4e-b734-7fec1fc3fddd}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Manejador\Manejador.csproj">
+      <Project>{8b580032-aff3-4659-8bb4-e1e8b0401719}</Project>
+      <Name>Manejador</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

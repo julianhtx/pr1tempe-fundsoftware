@@ -26,7 +26,7 @@ CREATE PROCEDURE p_ValidarUsuario(
 )
 BEGIN
     DECLARE x INT;
-	SELECT COUNT(*) FROM Users WHERE userName = _userName AND Password = _pass INTO x;
+	SELECT COUNT(*) FROM Users WHERE userName = _userName AND Password = _password INTO x;
 	if x > 0 then
 		SELECT 'Correcto' AS rs, (SELECT level FROM Users WHERE userName = _userName) AS Nivel;
 	ELSE
